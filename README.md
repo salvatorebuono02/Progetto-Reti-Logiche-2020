@@ -8,4 +8,4 @@ neighbors by distributing them over the entire interval of intensity, in order t
 contrast.
 
 You can find the assignment in the *specifica 2020-2021.pdf* file.
-It is written in VHDL and tested using Vivado 2021.1
+It is written in VHDL and tested using Vivado 2020.1
